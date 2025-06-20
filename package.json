@@ -2,7 +2,7 @@
   "name": "note-app-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/naingseiha/note-app-frontend",
+  "homepage": "https://naingseiha.github.io/note-app-frontend",
   "type": "module",
   "scripts": {
     "dev": "vite",

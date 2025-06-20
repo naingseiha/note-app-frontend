@@ -3,7 +3,7 @@ import axios from "axios";
 // in production, there's no localhost so we have to make this dynamic
 const BASE_URL =
   import.meta.env.MODE === "development"
-    ? "https://notes-app-backend-ioko.onrender.com/api"
+    ? "https://notes-app-backend-ioko.onrender.com"
     : "/api";
 
 const api = axios.create({
